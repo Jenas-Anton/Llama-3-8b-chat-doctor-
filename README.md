@@ -1,6 +1,7 @@
 # Llama-3-8b-chat-doctor 🩺
 
 A specialized medical conversation model built on top of Llama 3 8B Chat. This model is fine-tuned to provide medical advice and information while maintaining the base capabilities of Llama 3.
+![Llama-3-8b-medical-assistant](image.png)
 
 ## Model Details
 
